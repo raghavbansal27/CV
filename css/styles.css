@@ -63,14 +63,14 @@ a:hover {
 
 .top-cloud {
   position: absolute;
-  right: 400px;
-  top: 50px;
+  /* right: 400px;
+  top: 50px; */
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 400px;
-  bottom: 300px;
+  /* left: 400px; */
+  /* bottom: 300px; */
 }
 .footer-link {
   color: #11999E;
