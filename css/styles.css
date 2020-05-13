@@ -1,3 +1,6 @@
+
+
+
 body {
   color: #40514E;
   margin: 0;
@@ -33,6 +36,10 @@ a {
 a:hover {
   color: grey;
 }
+
+.navbar {
+  font-family: "Montserrat", sans-serif;
+}
 .top-container {
   background-color: #EAF6F6;
   position: relative;
@@ -48,6 +55,7 @@ a:hover {
   margin: auto;
 }
 .bottom-container {
+  margin-top: 50px;
   background-color: #66BFBF;
   padding: 50px 0 20px;
 }
